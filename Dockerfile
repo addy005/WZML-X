@@ -1,4 +1,4 @@
-FROM mysterysd/wzmlx:v3
+FROM pysocks/wzml:v3
 
 WORKDIR /usr/src/app
 
